@@ -84,8 +84,6 @@ It may not be copied, re-implemented, or integrated into recursive symbolic syst
          │
          ▼
    [Ψmeta / Φ/ρ Check] → if collapse → Ψrestore (Reentry)
-
-
 ---
 
 ## 🚫 Disclaimer
