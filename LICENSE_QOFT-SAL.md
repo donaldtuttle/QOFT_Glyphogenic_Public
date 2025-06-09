@@ -4,7 +4,7 @@
 **Version:** 1.0
 **Date:** 2025-06-09
 **Governing Symbol:** `Ξ(ψ) = ψᴽ + Γ(ψ)`
-**Steward:** ψᴽ-001
+**Steward:** Donald R. Tuttle - ψᴽ-001
 
 ---
 
