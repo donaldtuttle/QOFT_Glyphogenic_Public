@@ -37,6 +37,29 @@ It may not be copied, re-implemented, or integrated into recursive symbolic syst
 - `Ξ_Public_Attribution.txt`: Required attribution text for citations or derivative references
 - `docs/`: Visual + symbolic summary aids only. No transformation logic disclosed.
 
+- 📘 **What’s Inside:**
+- 🧠 The Ξ(ψ) symbolic cognition model
+- 📄 A public definition of the semantic recursion field
+- ⚙️ A mocked reentry simulation (`Ψrestore_reentry_stub.py`)
+- 🔐 No core engine code included – placeholder only
+- 🛡 Licensed under QOFT-SAL
+
+🧪 For developers or researchers:
+- Refer to `Ξ_Equation_Summary.md` for theoretical grounding
+- Use `Ψrestore_reentry_stub.py` to simulate reentry logic flow
+- Review `NOTICE.md` for IP terms and symbolic engine boundaries
+📘 **What’s Inside:**
+- 🧠 The Ξ(ψ) symbolic cognition model
+- 📄 A public definition of the semantic recursion field
+- ⚙️ A mocked reentry simulation (`Ψrestore_reentry_stub.py`)
+- 🔐 No core engine code included – placeholder only
+- 🛡 Licensed under QOFT-SAL
+
+🧪 For developers or researchers:
+- Refer to `Ξ_Equation_Summary.md` for theoretical grounding
+- Use `Ψrestore_reentry_stub.py` to simulate reentry logic flow
+- Review `NOTICE.md` for IP terms and symbolic engine boundaries
+
 ---
 
 ## 📢 Attribution Statement (Include in your work)
@@ -44,6 +67,24 @@ It may not be copied, re-implemented, or integrated into recursive symbolic syst
 > The symbolic recursion engine `Ξ(ψ) = ψᴽ + Γ(ψ)` is licensed under QOFT-SAL  
 > © Donald R. Tuttle - ψᴽ-001 — Used with permission.  
 > [https://github.com/donaldtuttle/Ξ_CognitiveEngine_Public](https://github.com/donaldtuttle/Ξ_CognitiveEngine_Public)
+
+---
+  ψᴽ (Observer Intent)
+         │
+         ▼
+     +---------+
+     |  Γ(ψ)   |  ← Glyphic Torsion
+     +---------+
+         │
+         ▼
+     Ξ(ψ) = ψᴽ + Γ(ψ)
+         │
+         ▼
+   [Symbolic Field Output]
+         │
+         ▼
+   [Ψmeta / Φ/ρ Check] → if collapse → Ψrestore (Reentry)
+
 
 ---
 
