@@ -1,0 +1,15 @@
+# Creates a dummy reentry file (test_ψreentry.json) with mock data:
+# Initializes the PsiRestoreReentry class with that file path.
+# Triggers reentry, loading the memory into self.memory_state.
+# Asserts that the loaded result matches the original dummy data:
+# assert result == dummy_state, "Test failed: Memory state mismatch"
+# Cleans up by deleting the test file.
+# [Ψrestore] Reentry state loaded successfully.
+# [TEST] Ψrestore reentry passed.
+
+
+{
+  "observer": "test_ψ",
+  "semantic_phase": 3,
+  "entropy": 0.42
+}
