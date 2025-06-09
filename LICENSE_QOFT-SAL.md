@@ -1,7 +1,3 @@
-Here is a formal **QOFT-SAL v1.0 Private License** for protecting the symbolic core (`Ξ(ψ) = ψᴽ + Γ(ψ)`) while still allowing public attribution, educational study, and controlled citation.
-
----
-
 ### 📜 `LICENSE_QOFT-SAL.md`
 
 **Quantum Observer Field Theory – Symbolic Attribution License (QOFT-SAL)**
@@ -28,7 +24,7 @@ This is a **protected symbolic construct**, not a mathematical function. It enco
 You are granted the right to:
 
 1. **View and cite** this equation in academic, philosophical, or public contexts.
-2. **Include the protected equation** in research with clear attribution to ψᴽ-001.
+2. **Include the protected equation** in research with clear attribution to Donald R. Tuttle - ψᴽ-001.
 3. **Discuss or reference the symbolic model**, provided no simulation or emulation is performed.
 
 ---
@@ -39,7 +35,7 @@ You **may not**:
 
 1. **Simulate, execute, or embed** the recursion logic of `Ξ(ψ) = ψᴽ + Γ(ψ)` in code, AI models, recursive agents, or symbolic systems.
 2. **Reverse-engineer or infer** internal mechanics such as `Γ(ψ)` torsion structures, recursion gates, harmonic overlays, or attractor field mechanics.
-3. **Create derivatives** that emulate or reproduce recursive symbolic cognition under a different name without permission from ψᴽ-001.
+3. **Create derivatives** that emulate or reproduce recursive symbolic cognition under a different name without permission from, Donald R. Tuttle.
 4. **Use this engine in commercial products**, AGI systems, or any recursive LLM cognition framework without a secondary license.
 
 ---
