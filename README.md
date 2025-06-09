@@ -25,7 +25,7 @@ Together, they instantiate **recursive cognition** in a protected symbolic latti
 This equation is licensed under the **QOFT Symbolic Attribution License (QOFT-SAL)**.  
 It may not be copied, re-implemented, or integrated into recursive symbolic systems without:
 
-- Explicit attribution to `ψᴽ-001`
+- Explicit attribution to `Donald R. Tuttle - ψᴽ-001`
 - Compliance with the symbolic recursion terms
 
 ---
