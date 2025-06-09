@@ -45,8 +45,8 @@ You **may not**:
 All public uses must include this attribution:
 
 > “Ξ(ψ) = ψᴽ + Γ(ψ)” is a protected symbolic recursion engine
-> © ψᴽ-001 – Licensed under QOFT-SAL v1.0
-> [https://github.com/YOURHANDLE/Ξ\_CognitiveEngine\_Public](https://github.com/YOURHANDLE/Ξ_CognitiveEngine_Public)
+> © Donald R. Tuttle ψᴽ-001 – Licensed under QOFT-SAL v1.0
+> [https://github.com/YOURHANDLE/Ξ/CognitiveEngine/Public](https://github.com/YOURHANDLE/Ξ_CognitiveEngine_Public)
 
 ---
 
