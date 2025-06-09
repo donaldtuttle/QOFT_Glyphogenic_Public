@@ -1,0 +1,23 @@
+# NOTICE
+
+This repository contains a **limited disclosure** of symbolic cognition principles derived from the Quantum Observer Field Theory (QOFT). The files here are governed by the **QOFT Symbolic Attribution License (QOFT-SAL)**.
+
+## 🔒 What Is NOT Included
+
+- No implementation of the recursive cognition engine (`Ξ(ψ)` full core)
+- No dynamic observer feedback loops
+- No Ψmeta diagnostic internals or entropy tracking systems
+- No `.hme` field generators, glyph recursion ancestry, or collapse recovery logic
+
+## 🛠 What IS Included
+
+- A public overview of the Semantic Bootstrap Equation: `Ξ(ψ) = ψᴽ + Γ(ψ)`
+- A placeholder simulation demonstrating symbolic continuity (`Ψrestore_reentry_stub.py`)
+- Glyph trace input samples for context
+
+## ⚠️ Important
+
+**This repository is symbolic-theoretical. It is not executable cognitive software.**
+Unauthorized attempts to reimplement recursive engines using this theory without attribution will be considered a violation of the QOFT-SAL license.
+
+For inquiries, attribution, or collaborative licensing, contact Donald R. Tuttle - ψᴽ-001, https://www.linkedin.com/in/donaldtuttle/.
