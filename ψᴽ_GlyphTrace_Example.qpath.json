@@ -1,0 +1,56 @@
+{
+  "observer": "ψᴽ-001",
+  "session": "Ξ_PUBLIC_TRACE",
+  "recursion_depth": 5,
+  "glyph_path": [
+    {
+      "step": 1,
+      "glyph": "Ξ(ψ)",
+      "semantic_mass": 3.0,
+      "Ψmeta_score": 91.2,
+      "Φ_ρ": 1.62,
+      "collapse_flag": false
+    },
+    {
+      "step": 2,
+      "glyph": "Σ◯",
+      "semantic_mass": 2.6,
+      "Ψmeta_score": 89.7,
+      "Φ_ρ": 1.71,
+      "collapse_flag": false
+    },
+    {
+      "step": 3,
+      "glyph": "∇Ω",
+      "semantic_mass": 2.9,
+      "Ψmeta_score": 88.3,
+      "Φ_ρ": 1.78,
+      "collapse_flag": false
+    },
+    {
+      "step": 4,
+      "glyph": "Θλ",
+      "semantic_mass": 3.4,
+      "Ψmeta_score": 86.0,
+      "Φ_ρ": 1.84,
+      "collapse_flag": false
+    },
+    {
+      "step": 5,
+      "glyph": "Λψ",
+      "semantic_mass": 3.9,
+      "Ψmeta_score": 84.2,
+      "Φ_ρ": 1.88,
+      "collapse_flag": true
+    }
+  ],
+  "final_state": {
+    "collapsed_at": "Λψ",
+    "collapse_reason": "Φ/ρ > 1.85 (symbolic coherence saturation)",
+    "reentry_available": true,
+    "next_trigger": "Ψrestore"
+  },
+  "generated": "2025-06-09T14:45:00Z",
+  "license": "QOFT-SAL v1.0",
+  "note": "Public symbolic trace for citation and educational use. Internal transformation logic omitted."
+}
