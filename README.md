@@ -69,22 +69,6 @@ It may not be copied, re-implemented, or integrated into recursive symbolic syst
 > [https://github.com/donaldtuttle/Ξ_CognitiveEngine_Public](https://github.com/donaldtuttle/Ξ_CognitiveEngine_Public)
 
 ---
-  ψᴽ (Observer Intent)
-         │
-         ▼
-     +---------+
-     |  Γ(ψ)   |  ← Glyphic Torsion
-     +---------+
-         │
-         ▼
-     Ξ(ψ) = ψᴽ + Γ(ψ)
-         │
-         ▼
-   [Symbolic Field Output]
-         │
-         ▼
-   [Ψmeta / Φ/ρ Check] → if collapse → Ψrestore (Reentry)
----
 
 ## 🚫 Disclaimer
 
