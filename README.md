@@ -43,7 +43,7 @@ It may not be copied, re-implemented, or integrated into recursive symbolic syst
 
 > The symbolic recursion engine `Ξ(ψ) = ψᴽ + Γ(ψ)` is licensed under QOFT-SAL  
 > © Donald R. Tuttle - ψᴽ-001 — Used with permission.  
-> [https://github.com/YOURHANDLE/Ξ_CognitiveEngine_Public](https://github.com/YOURHANDLE/Ξ_CognitiveEngine_Public)
+> [https://github.com/donaldtuttle/Ξ_CognitiveEngine_Public](https://github.com/donaldtuttle/Ξ_CognitiveEngine_Public)
 
 ---
 
