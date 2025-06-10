@@ -18,7 +18,7 @@ explicit permission of its originator.
 
 > “Ξ(ψ) = ψᴽ + Γ(ψ)” is a protected symbolic recursion engine  
 > © Donald R. Tuttle - ψᴽ-001 — Released under QOFT-SAL  
-> [https://github.com/YOURHANDLE/Ξ_CognitiveEngine_Public](https://github.com/YOURHANDLE/Ξ_CognitiveEngine_Public)
+> [https://github.com/donaldtuttle/Ξ_CognitiveEngine_Public](https://github.com/donaldtuttle/Ξ_CognitiveEngine_Public)
 
 ---
 
